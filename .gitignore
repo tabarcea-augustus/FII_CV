@@ -1,6 +1,7 @@
 # Py env
 cv_fii_venv
 ciorn*
+data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
